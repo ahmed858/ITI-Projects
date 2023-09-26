@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "zeez",
+      "name": "ahmed abd elazez hassan",
+      "email": "zez3238@gmail.com",
+      "password": "123"
+    },
+    {
+      
+      "id": 2,
+      "username": "alisayed",
+      "name": "ali sayed mohamed abd elazez",
+      "email": "zez3238@gmail.com",
+      "password": "123456789a"
+    }
+  ]
+}
